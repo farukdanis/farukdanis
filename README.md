@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E99,50:1F9BCF,100:7FD1E8&height=200&section=header&text=Faruk%20Dan%C4%B1%C5%9F%2C%20MD&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Emergency%20Physician%20%E2%80%A2%20Academic%20%E2%80%A2%20Building%20AI%20tools%20for%20clinical%20%26%20medical%20education&descAlignY=58&descSize=16" alt="Faruk Danış" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6E99,50:1F9BCF,100:7FD1E8&height=150&section=header" alt="" />
+
+# Faruk Danış, MD
+
+**Emergency Physician · Academic · Medical Educator**
 
 <a href="https://github.com/farukdanis">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=1F9BCF&center=true&vCenter=true&width=700&lines=Emergency+Medicine+%E2%80%A2+Bolu+Abant+%C4%B0zzet+Baysal+University;Resuscitation+%E2%80%A2+Airway+%E2%80%A2+Trauma+%E2%80%A2+Critical+Care;Journal+editor+%E2%80%A2+Peer+reviewer+%E2%80%A2+Medical+educator;Turning+clinical+workflows+into+AI-assisted+tools" alt="Typing SVG" />
@@ -114,17 +118,17 @@ Nothing here is a separate career. The question is born at the bedside, gets ans
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d2b3a','primaryTextColor':'#e6edf3','primaryBorderColor':'#1F9BCF','lineColor':'#7FD1E8','fontFamily':'Segoe UI, sans-serif','fontSize':'15px'}}}%%
 flowchart LR
-    A["🚑 <b>Resuscitation bay</b><br/>the question appears"]
-    B["📊 <b>Data</b><br/>cohorts · registries · audit"]
-    C["📝 <b>Literature</b><br/>write · review · edit"]
-    D["🎓 <b>Teaching</b><br/>residents · students · simulation"]
+    A["🚑 Resuscitation bay<br/>the question appears"]
+    B["📊 Data<br/>cohorts · registries · audit"]
+    C["📝 Literature<br/>write · review · edit"]
+    D["🎓 Teaching<br/>residents · students · simulation"]
 
     A --> B --> C --> D --> A
 
     A -.->|"what actually<br/>changes outcome"| D
     C -.->|"what the evidence<br/>will not support"| A
 
-    classDef node fill:#0d2b3a,stroke:#1F9BCF,stroke-width:2px,color:#e6edf3,rx:8,ry:8;
+    classDef node fill:#0d2b3a,stroke:#1F9BCF,stroke-width:2px,color:#e6edf3;
     class A,B,C,D node;
 ```
 
@@ -149,24 +153,8 @@ I am open to collaboration on **emergency medicine research**, **multicentre stu
 
 <i>"The patient in front of you does not care about your p-value — but the next thousand do."</i>
 
-<img src="https://komarev.com/ghpvc/?username=farukdanis&label=Profile%20views&color=1F9BCF&style=flat" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=farukdanis&label=Profile%20views&color=1F9BCF&style=flat&base=12400" alt="Profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7FD1E8,50:1F9BCF,100:0B6E99&height=120&section=footer" alt="footer"/>
 
 </div>
-### Hi there 👋
-
-<!--
-**farukdanis/farukdanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

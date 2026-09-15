@@ -117,7 +117,7 @@ Nothing here is a separate career. The question is born at the bedside, gets ans
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d2b3a','primaryTextColor':'#e6edf3','primaryBorderColor':'#1F9BCF','lineColor':'#7FD1E8','edgeLabelBackground':'#161b22','tertiaryColor':'#161b22','tertiaryTextColor':'#e6edf3','fontFamily':'Segoe UI, sans-serif','fontSize':'16px'},'flowchart':{'useMaxWidth':true,'curve':'basis','nodeSpacing':40,'rankSpacing':55,'padding':10}}}%%
-flowchart LR
+flowchart TD
     A["🚑 Bedside<br/>the question appears"]
     B["📊 Data<br/>cohorts · registries"]
     C["📝 Literature<br/>write · review · edit"]

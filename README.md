@@ -116,17 +116,17 @@ Flipped classrooms, simulation, assessment design and item writing for undergrad
 Nothing here is a separate career. The question is born at the bedside, gets answered with data, is argued in the literature, and comes back as something a resident can use at 04:00 — then starts again.
 
 ```mermaid
-%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d2b3a','primaryTextColor':'#e6edf3','primaryBorderColor':'#1F9BCF','lineColor':'#7FD1E8','fontFamily':'Segoe UI, sans-serif','fontSize':'15px'}}}%%
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0d2b3a','primaryTextColor':'#e6edf3','primaryBorderColor':'#1F9BCF','lineColor':'#7FD1E8','edgeLabelBackground':'#161b22','tertiaryColor':'#161b22','tertiaryTextColor':'#e6edf3','fontFamily':'Segoe UI, sans-serif','fontSize':'16px'},'flowchart':{'useMaxWidth':true,'curve':'basis','nodeSpacing':40,'rankSpacing':55,'padding':10}}}%%
 flowchart LR
-    A["🚑 Resuscitation bay<br/>the question appears"]
-    B["📊 Data<br/>cohorts · registries · audit"]
+    A["🚑 Bedside<br/>the question appears"]
+    B["📊 Data<br/>cohorts · registries"]
     C["📝 Literature<br/>write · review · edit"]
-    D["🎓 Teaching<br/>residents · students · simulation"]
+    D["🎓 Teaching<br/>residents & students"]
 
     A --> B --> C --> D --> A
 
-    A -.->|"what actually<br/>changes outcome"| D
-    C -.->|"what the evidence<br/>will not support"| A
+    A -.->|"what changes<br/>outcome"| D
+    C -.->|"what evidence<br/>will not support"| A
 
     classDef node fill:#0d2b3a,stroke:#1F9BCF,stroke-width:2px,color:#e6edf3;
     class A,B,C,D node;
